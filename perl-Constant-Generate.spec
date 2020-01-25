@@ -4,7 +4,6 @@
 #
 %define		pdir	Constant
 %define		pnam	Generate
-%include	/usr/lib/rpm/macros.perl
 Summary:	Constant::Generate - Common tasks for symbolic constants
 Summary(pl.UTF-8):	Constant::Generate - wspólne zadania dla stałych symbolicznych
 Name:		perl-Constant-Generate
